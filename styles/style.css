@@ -1,0 +1,167 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+hr{
+  border: 0.5px solid #d0c6b2;
+  width: 100%;
+}
+
+header {
+  background-color: #fafafa;
+  border-bottom: 0.2px solid #d0c6b2;
+  min-width: 1100px;
+  margin-left: -27px;
+}
+
+.upheader {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.upheader li {
+  float:left;
+  display:inline-block;
+  padding: 10px 10px;
+}
+
+.upper-header-right {
+  display: block;
+  position: absolute;
+  right: 10px;
+  top:20px;
+}
+
+.lwheader {
+  padding-left: 160px;
+  clear: left;
+  width: 100%;
+  color: #919191;
+}
+
+.lwheader li {
+  display: inline-block;
+  padding: 10px 14px 25px 14px;
+}
+
+.lwheader li.all {
+  border-bottom: 3px solid blue;
+  color: blue;
+}
+
+.lwheader li:hover {
+  color: black;
+}
+
+li.settings {
+  padding-left: 2.4em;
+}
+
+form input {
+  border-radius: 25px;
+  border: 1px solid #d0c6b2;
+  margin: 0 10px;
+  padding: 0 20px;
+  width: 583px;
+  height: 40px;
+  font-size: 20px;
+}
+
+form input:focus {
+    outline: none;
+    border-color: #d9d9d9;
+    box-shadow: 0 0 10px #d9d9d9;
+}
+
+.boogle {
+  display: block;
+  position: relative;
+  top: 5px;
+  margin-left: 27px;
+}
+
+section {
+  margin-left: 156px;
+  max-width: 587px;
+  margin-bottom: 30px;
+}
+
+section.results {
+  margin: 15px 140px 25px 140px;
+  color: #919191;
+}
+
+h3 {
+  font-size: 18px;
+  margin: 0;
+  font-weight: 400;
+  line-height: 23.9333px;
+}
+
+h5 {
+  color: #006621;
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 20.0167px;
+  margin-bottom: 2px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #1a0dab;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  color: #545454;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20.0167px;
+  overflow-wrap: break-word;
+  margin: 0 0 10px 0;
+}
+
+.also {
+  margin-bottom: 15px;
+}
+
+footer {
+  background-color: #fafafa;
+  border-top: 0.2px solid #d0c6b2;
+  min-width: 1100px;
+  margin-left: -27px;
+  max-width: 400px;
+}
+
+.footer {
+  margin-left: 173px;
+}
+
+.footer li {
+  display: inline-block;
+  padding: 13px 10px 6px 10px;
+}
+
+.footer a {
+  color: #545454;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: black;
+}
