@@ -5,6 +5,6 @@ With that being said, let's start!
 
 26.02.2019 - Create a repo, start the project.\
 28.02.2019 - Apply styles, work on header.\
-02.03.2019 - Style body and footer; finish header.\
+02.03.2019 - Style body and footer; finish header.
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
